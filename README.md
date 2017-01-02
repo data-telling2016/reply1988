@@ -1,5 +1,6 @@
 DATA 1988
 ==========
+![enter image description here](http://i.imgur.com/q1UdMlQ.png?1)
 
 ### WHAT WE DO
 데이터로 바라본 드라마 [응답하라1988](http://program.tving.com/tvn/reply1988). 데이터 분석을 통해 드라마 한편에 내재된 서사 및 인물간의 갈등 구조를 알아보고자 하였습니다.
