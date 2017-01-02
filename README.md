@@ -22,4 +22,4 @@ DATA 1988
 5. **구현** : html, css3, bootstrap, jquery 이용하여 사이트 구현
 
 
-[Go website](http://reply1988.data-telling.me/)
+>[Go website](http://reply1988.data-telling.me/)
