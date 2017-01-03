@@ -24,3 +24,5 @@ DATA 1988
 
 
 #### [Go website](http://reply1988.data-telling.me/)
+-----
+📌 &nbsp; 팀원들은 작업하기 전에 [wiki](https://github.com/data-telling2016/reply1988/wiki/Rule-of-Command-line)를 확인해주세요 !
