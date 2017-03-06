@@ -268,7 +268,7 @@ section #network-sec{
 	.call-to-action h3{
 		font-size: 18px;
 	}
-	#download{
+	.download{
 		font-size: 10px;
 	}
 	.bg-light-gray .section-heading-t{
@@ -542,7 +542,7 @@ fieldset[disabled] .btn-default.active {
 
 
 /*pdf,다운로드 부분*/
-#download{
+.download{
 	margin: 10px;
 	color:#eeeeee;
 	background-color:#333333;
@@ -554,7 +554,7 @@ fieldset[disabled] .btn-default.active {
 	.download-sec{
 		max-width: 100%;	
 	}
-	#download{
+	.download{
 		margin: auto;
 		padding:10px 13px;
 		font-size: 10px;
